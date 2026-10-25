@@ -1,0 +1,26 @@
+Vue 单文件组件清单（src 下全部 .vue 文件）
+
+src/App.vue
+src/components/AnnouncementCard.vue
+src/components/AppFooter.vue
+src/components/AppHeader.vue
+src/components/EmptyState.vue
+src/components/FavoriteList.vue
+src/components/ProfileCard.vue
+src/components/ProgressCard.vue
+src/components/QuickLink.vue
+src/components/SectionHeading.vue
+src/components/ServiceCard.vue
+src/components/ServiceFilter.vue
+src/components/ServiceSearch.vue
+src/components/StatCard.vue
+src/components/TaskForm.vue
+src/components/TaskItem.vue
+src/components/TaskList.vue
+src/components/WelcomeBanner.vue
+src/views/HomeView.vue
+src/views/PlannerView.vue
+src/views/ProfileView.vue
+src/views/ServicesView.vue
+
+组件总数：22
